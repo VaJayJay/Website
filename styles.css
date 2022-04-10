@@ -10,7 +10,7 @@
  */
 body {
     line-height: 1.7em;
-    color: #0f0d06;
+    color: white;
     font-size: 13px;
 }
 
@@ -21,7 +21,7 @@ h4,
 h5,
 h6,
 label {
-    color: #34495e;
+    color: #a4a9ae;
 }
 
 .pure-img-responsive {
@@ -184,7 +184,7 @@ a.pure-button-primary {
     width: 100%;
     min-height: 12%;
     z-index: 2;
-    background: white;
+    background: #393235;
 
 }
 
@@ -209,7 +209,7 @@ a.pure-button-primary {
 
 /* This is the class used for the content sub-headers (<h3>) */
 .content-subhead {
-    color: #1f8dd6;
+    color: #F7c4c3;
 }
     .content-subhead i {
         margin-right: 7px;
@@ -217,7 +217,7 @@ a.pure-button-primary {
 
 /* This is the class used for the dark-background areas. */
 .ribbon {
-    background: #2d3e50;
+    background: #0f0d06;
     color: #aaa;
 }
 
